@@ -7,7 +7,14 @@
 </head>
 <body>
 <center>
-<a href="text0.html">First page</a> <a href="text37.html">Back</a> <a href="text39.html">Continue</a> <a href="text106.html">Last page</a> <a href="index.html">Overview</a> <a href="img38.html">Graphics</a></center><br>
+<a href="text0.html">First page</a> <a href="text37.html">Back</a> <a href="text39.html">Continue</a> <a href="text110.html">Last page</a> <a href="index.html">Overview</a> <a href="img38.html">Graphics</a></center><br>
 <h1>Branch Names</h1>
+<br>
+<h3>Notes:</h3>
+So, how do we store the link between branches and their latest snapshots?<br>
+<br>
+Simple: In a file named “branches”, stored <u>outside</u> of any specific snapshot, you simply list the name/snapshot pairs that represent the tips of your branches.<br>
+<br>
+To switch to a given branch you look up the snapshot for that branch in this file, and then copy that snapshot directory into the working directory.<br>
 </body>
 </html>
