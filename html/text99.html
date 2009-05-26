@@ -8,13 +8,13 @@
 <body>
 <center>
 <a href="text0.html">First page</a> <a href="text98.html">Back</a> <a href="text100.html">Continue</a> <a href="text110.html">Last page</a> <a href="index.html">Overview</a> <a href="img99.html">Graphics</a></center><br>
-<h1>Eliminating Duplication</h1>
+<h1 style="direction:ltr;">Eliminating Duplication</h1>
 <br>
 <h3>Notes:</h3>
-But once you start tranforming the second snapshot you discover something:<br>
-<br>
-Many of the files and directories are unchanged from the first snapshot, and they therefore end up with the same SHA1. But since they have the same SHA1, they <u>already</u> exist in the objects directory, so you don't have to copy them in there.<br>
-<br>
-Imagine two sequential snapshots in which only a single file in the root directory has changed. If the snapshots both contain 10 directories and 100 files, the transformation process will create 10 trees and 100 blobs from the first snapshot but only one new blob and one new tree from the second snapshot!<br>
+<p style="direction:ltr;">But once you start tranforming the second snapshot you discover something:</p>
+<p style="direction:ltr;"></p>
+<p style="direction:ltr;">Many of the files and directories are unchanged from the first snapshot, and they therefore end up with the same SHA1. But since they have the same SHA1, they <u>already</u> exist in the objects directory, so you don't have to copy them in there.</p>
+<p style="direction:ltr;"></p>
+<p style="direction:ltr;">Imagine two sequential snapshots in which only a single file in the root directory has changed. If the snapshots both contain 10 directories and 100 files, the transformation process will create 10 trees and 100 blobs from the first snapshot but only one new blob and one new tree from the second snapshot!</p>
 </body>
 </html>
