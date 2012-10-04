@@ -1,0 +1,11 @@
+The Git Parable - a different approach to understanding Git
+
+Learning and using Git commands is all well and good, but until you have a
+working understanding of how Git itself thinks and works, it will still feel
+like a strange beast with lots of sharp and pointy bits.
+
+This talk will start from scratch and introduce a mental model of how Git
+works, based on very simple concepts. 
+
+Git will still have some sharp and pointy bits, but hopefully you will be
+better equipped to understand how they can work to your advantage.
