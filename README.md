@@ -7,6 +7,7 @@ I've given the talk a few times, with generally positive feedback:
 - Various company-internal meetings at Opera (2009-2010) and Cisco (2012)
 - Meetup with the local Tekna chapter (October, 2012): http://ikt.tekna.no/git/
 - ACCU 2013 (April, 2013): http://www.infoq.com/presentations/git-details
+- NDC TechTown 2018 (August, 2018)
 
 Also, Matthew Brett has remixed some of my slides/illustrations into Preston-Werner's original essay: http://practical-neuroimaging.github.io/git_parable.html
 
