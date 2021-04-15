@@ -11,6 +11,6 @@ I've given the talk a few times, with generally positive feedback:
 
 Matthew Brett has remixed some of my slides/illustrations into Preston-Werner's original essay: http://practical-neuroimaging.github.io/git_parable.html
 
-Also, I redid the slides for the 2018 talk in Google Docs: https://docs.google.com/presentation/d/1u0cM0r07iL9v7Myo6RWGWRR3o2IYlebDIayG8rMagVw/edit
+Also, I have redone the slides for the 2018 talk in Google Docs: https://docs.google.com/presentation/d/1u0cM0r07iL9v7Myo6RWGWRR3o2IYlebDIayG8rMagVw/edit
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
