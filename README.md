@@ -4,7 +4,7 @@ These are slides for a presentation/talk adapted from Tom Preston-Werner's essay
 
 I've given the talk a few times, with generally positive feedback:
 
-- NDC TechTown 2018 (August 2018, Kongsberg, Norway): https://youtu.be/jm7QsI-nNjk?t=2
+- NDC TechTown 2018 (August 2018, Kongsberg, Norway): https://youtu.be/jm7QsI-nNjk
 - ACCU 2013 (April 2013, Bristol, UK): http://www.infoq.com/presentations/git-details
 - Meetup with the local Tekna chapter (October 2012, Oslo, Norway).
 - Various company-internal meetings at Opera (2009-2010) and Cisco (2012-2021)
