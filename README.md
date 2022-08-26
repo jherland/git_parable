@@ -1,4 +1,4 @@
-#The Git Parable - in presentation form
+# The Git Parable - in presentation form
 
 These are slides for a presentation/talk adapted from Tom Preston-Werner's essay "The Git Parable": http://tom.preston-werner.com/2009/05/19/the-git-parable.htm
 
